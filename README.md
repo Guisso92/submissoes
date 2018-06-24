@@ -1,2 +1,0 @@
-# submissoes
-Trabalho LOO2
